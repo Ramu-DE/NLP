@@ -1,3 +1,3 @@
 | Name | Description | Docs |
 |------|-------------|------|
-| NLP  |The role of Probabilities|[Link](The role of probabilities in language models)|
+| NLP  |The role of Probabilities|[Link]|
